@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cotton",
+    "name": "Хлопчатобумажная ткань",
+    "image": {
+      "src": "assets/images/fabrics/cotton.jpg",
+      "alt": "Хлопковая парусина: переплетение крупным планом.",
+      "caption": "Хлопковая парусина: переплетение крупным планом. Фото: Clescelius. CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/ Источник: https://commons.wikimedia.org/wiki/File:Close_up_of_cotton_duck_canvas.JPG",
+      "author": "Clescelius",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Close_up_of_cotton_duck_canvas.JPG",
+      "changes": "Уменьшенная версия Wikimedia для хлопка, льна и шёлка; остальные файлы без изменения пикселей.",
+      "verifiedComposition": false
+    }
+  },
+  {
+    "id": "linen",
+    "name": "Льняная ткань",
+    "image": {
+      "src": "assets/images/fabrics/linen.jpg",
+      "alt": "Льняная скатерть Tampella. Рисунок и цвет не являются признаками состава.",
+      "caption": "Льняная скатерть Tampella. Рисунок и цвет не являются признаками состава. Фото: W.carter / Ann-Sophie Qvarnström. CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/ Источник: https://commons.wikimedia.org/wiki/File:Linen_table_cloth_made_by_Tampella,_Finland_2.jpg",
+      "author": "W.carter / Ann-Sophie Qvarnström",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Linen_table_cloth_made_by_Tampella,_Finland_2.jpg",
+      "changes": "Уменьшенная версия Wikimedia для хлопка, льна и шёлка; остальные файлы без изменения пикселей.",
+      "verifiedComposition": false
+    }
+  },
+  {
+    "id": "wool",
+    "name": "Шерстяная ткань",
+    "image": {
+      "src": "assets/images/fabrics/wool.jpg",
+      "alt": "Шерстяная костюмная ткань с кромкой.",
+      "caption": "Шерстяная костюмная ткань с кромкой. Фото: Teslar. CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/ Источник: https://commons.wikimedia.org/wiki/File:Wolle150microns.JPG",
+      "author": "Teslar",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wolle150microns.JPG",
+      "changes": "Уменьшенная версия Wikimedia для хлопка, льна и шёлка; остальные файлы без изменения пикселей.",
+      "verifiedComposition": false
+    }
+  },
+  {
+    "id": "silk",
+    "name": "Натуральная шёлковая ткань",
+    "image": {
+      "src": "assets/images/fabrics/silk.jpg",
+      "alt": "Шёлковые полотна разных цветов, по описанию автора.",
+      "caption": "Шёлковые полотна разных цветов, по описанию автора. Фото: Bhaiyaji Smile 123. CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/ Источник: https://commons.wikimedia.org/wiki/File:Silk_cloth_01.jpg",
+      "author": "Bhaiyaji Smile 123",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Silk_cloth_01.jpg",
+      "changes": "Уменьшенная версия Wikimedia для хлопка, льна и шёлка; остальные файлы без изменения пикселей.",
+      "verifiedComposition": false
+    }
+  },
+  {
+    "id": "viscose",
+    "name": "Вискозная ткань",
+    "image": {
+      "src": "assets/images/fabrics/viscose.jpg",
+      "alt": "Крупный план ткани rayon. Источник не уточняет способ производства; это иллюстрация, не подтверждённый вискозный эталон. Исходный размер — 300 × 200 пикселей.",
+      "caption": "Крупный план ткани rayon. Источник не уточняет способ производства; это иллюстрация, не подтверждённый вискозный эталон. Исходный размер — 300 × 200 пикселей. Фото: Digitalgadget~commonswiki (по данным страницы). Public domain — https://commons.wikimedia.org/wiki/File:Rayon_closeup_1.jpg Источник: https://commons.wikimedia.org/wiki/File:Rayon_closeup_1.jpg",
+      "author": "Digitalgadget~commonswiki (по данным страницы)",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Rayon_closeup_1.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rayon_closeup_1.jpg",
+      "changes": "Уменьшенная версия Wikimedia для хлопка, льна и шёлка; остальные файлы без изменения пикселей.",
+      "verifiedComposition": false
+    }
+  },
+  {
+    "id": "acetate",
+    "name": "Ацетатная ткань",
+    "image": {
+      "src": "assets/images/fabrics/acetate.jpg",
+      "alt": "Фрагмент ацетатного платья Laura Ashley из музейной коллекции, по описанию источника.",
+      "caption": "Фрагмент ацетатного платья Laura Ashley из музейной коллекции, по описанию источника. Фото: Daderot; кадрирование Arkirkland. CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/ Источник: https://commons.wikimedia.org/wiki/File:Close_up_of_acetate_fabric_-_Strapless_dress_by_Laura_Ashley.jpg",
+      "author": "Daderot; кадрирование Arkirkland",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Close_up_of_acetate_fabric_-_Strapless_dress_by_Laura_Ashley.jpg",
+      "changes": "Уменьшенная версия Wikimedia для хлопка, льна и шёлка; остальные файлы без изменения пикселей.",
+      "verifiedComposition": false
+    }
+  }
+]
